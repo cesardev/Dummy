@@ -1,0 +1,43 @@
+
+.headboard{
+	background-color: #fff;
+	max-height: 57px;
+	border-bottom: 1px solid #C1C1C1;
+	overflow: hidden;
+}
+.cont-logo_menu{
+	height: 57px;
+	text-align: left;
+}
+.logo{
+	width: 40px;
+	height: 40px;
+	margin-top: 7px;
+	margin-left: -10px;
+}
+.logo-nav{
+	width: 155px;
+	margin-top: 2px;
+}
+.cont-ico{
+	line-height: 57px;
+}
+.cont-ico i{
+	cursor: pointer;
+}
+.cont-ico a{
+	padding: 0 10px;
+}
+.cont-user{
+	text-align: right;
+	line-height: 28px;
+}
+.open{
+	width: 200px !important;
+}
+.cont-title_nav{
+	background-color: #EAEAEA;
+}
+.cont-accordion i{
+	font-size: 15px;
+}
